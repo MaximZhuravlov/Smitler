@@ -1482,7 +1482,7 @@ img {
 }
 
 .massage-content-right-form input[type="text"],
-.massage-content-right-form input[type="phone"] {
+.massage-content-right-form input[type="tel"] {
   display: block;
   width: 100%;
   height: 50px;
